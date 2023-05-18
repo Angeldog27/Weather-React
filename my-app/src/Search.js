@@ -64,9 +64,9 @@ export default function Search() {
           <li className="days">Thursday </li>
           <li className="days">Friday </li>
         </ul>
-        <div className="Forecast">
+        <div>
           <ReactAnimatedWeather
-            icon="CLEAR_DAY"
+            icon="CLOUDY"
             color="goldenrod"
             size={50}
             animate="true"
@@ -78,7 +78,7 @@ export default function Search() {
             animate="true"
           />
           <ReactAnimatedWeather
-            icon="CLEAR_DAY"
+            icon="RAIN"
             color="goldenrod"
             size={50}
             animate="true"
@@ -90,7 +90,7 @@ export default function Search() {
             animate="true"
           />
           <ReactAnimatedWeather
-            icon="CLEAR_DAY"
+            icon="FOG"
             color="goldenrod"
             size={50}
             animate="true"
