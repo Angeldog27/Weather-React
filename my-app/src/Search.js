@@ -104,6 +104,14 @@ export default function Search() {
           <li className="Temp">30</li>
         </ul>
         <p> Open Source Code by Nicole Torres from SheCodes</p>
+        <br />
+        <a
+          href="https://github.com/Angeldog27/Weather-React "
+          target="_blank"
+          rel="noreferrer"
+        >
+          Visit my GitHub Repository
+        </a>
       </div>
     );
   } else {

@@ -33,3 +33,9 @@ form {
   display: flex;
   justify-content: space-around;
 }
+a {
+  color: aqua;
+}
+footer {
+  margin-top: 60px;
+}
